@@ -1,6 +1,6 @@
 # Source Code Management
 
-@Kaothom เขียนว่าใช้ gitlab ทำไมถึงใช้ ข้อดีข้อเสีย
+<figure><img src="../.gitbook/assets/gitlab-ar21.png" alt=""><figcaption></figcaption></figure>
 
 * ใช้เวลาในการ maintain เครื่องมือน้อยลง 7 เท่า ทำให้ developer ใช้เวลาที่เหลือไปกับการพัฒนา software ได้มากขึ้น
 * #### มี GitLab Duo ที่มี AI ช่วยในเรื่องต่างๆตั้งแต่การเขียน code ไปจนถึงการทำ security
