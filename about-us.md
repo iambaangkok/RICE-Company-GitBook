@@ -17,8 +17,8 @@
 
 | Student ID | Name                  | Responsibility          |
 | ---------- | --------------------- | ----------------------- |
-| 630610746  | Baangkok Vanijyananda | CI/CD, Cloud deployment |
 | 630610724  | Chayanon Pitak        | Cloud deployment        |
+| 630610746  | Baangkok Vanijyananda | CI/CD, Cloud deployment |
 | 630610754  | Ronnagon Pukahuta     | CI/CD                   |
 
 ### Network team
