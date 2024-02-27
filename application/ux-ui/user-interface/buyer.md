@@ -31,7 +31,7 @@
 
 <div>
 
-<p>หากผู้ใช้มี Account อยู่แล้ว สามารถ Login ผ่าน Email หรือ หมายเลขโทรศัพท์ กับรหัสผ่าน หรือ สามารถ Login ผ่าน Google Facebook Apple และ Line หากผู้ใช้ไม่มี Account ผู้ใช้สามารถกด</p> **สมัครใหม่ที่นี่** <p>เพื่อสร้าง Account ต่อไป</p>
+หากผู้ใช้มี Account อยู่แล้ว สามารถ Login ผ่าน Email หรือ หมายเลขโทรศัพท์ กับรหัสผ่าน หรือ สามารถ Login ผ่าน Google Facebook Apple และ Line หากผู้ใช้ไม่มี Account ผู้ใช้สามารถกด **สมัครใหม่ที่นี่** เพื่อสร้าง Account ต่อไป
 
 <figure><img src="../../../.gitbook/assets/Login.png" alt=""><figcaption></figcaption></figure>
 
@@ -41,7 +41,7 @@
 
 </div>
 
-***
+---
 
 ### Sign Up
 
