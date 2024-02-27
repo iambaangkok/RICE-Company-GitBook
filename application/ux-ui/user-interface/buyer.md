@@ -24,11 +24,14 @@
 
 <figure><img src="../../../.gitbook/assets/Dashboard2.png" alt="" width="206"><figcaption></figcaption></figure>
 </div>
+
 ## Authentication
 
 ### Sign In
-<p>หากผู้ใช้มี Account อยู่แล้ว สามารถ Login ผ่าน Email หรือ หมายเลขโทรศัพท์ กับรหัสผ่าน หรือ สามารถ Login ผ่าน Google Facebook Apple และ Line หากผู้ใช้ไม่มี Account ผู้ใช้สามารถกด **สมัครใหม่ที่นี่** เพื่อสร้าง Account ต่อไป</p>
+
 <div>
+
+<p>หากผู้ใช้มี Account อยู่แล้ว สามารถ Login ผ่าน Email หรือ หมายเลขโทรศัพท์ กับรหัสผ่าน หรือ สามารถ Login ผ่าน Google Facebook Apple และ Line หากผู้ใช้ไม่มี Account ผู้ใช้สามารถกด</p> **สมัครใหม่ที่นี่** <p>เพื่อสร้าง Account ต่อไป</p>
 
 <figure><img src="../../../.gitbook/assets/Login.png" alt=""><figcaption></figcaption></figure>
 
@@ -37,12 +40,13 @@
 <figure><img src="../../../.gitbook/assets/Login - wrongFill.svg" alt=""><figcaption></figcaption></figure>
 
 </div>
+
 ***
 
 ### Sign Up
 
-
 <div align="left">
+
 <figure><img src="../../../.gitbook/assets/Register.png" alt=""><figcaption></figcaption></figure>
  
 <figure><img src="../../../.gitbook/assets/Register - nofill.svg" alt=""><figcaption></figcaption></figure>
@@ -50,6 +54,7 @@
 <figure><img src="../../../.gitbook/assets/Register - fillPassCorect.svg" alt=""><figcaption></figcaption></figure>
  
 <figure><img src="../../../.gitbook/assets/Register - AddressFill.png" alt=""><figcaption></figcaption></figure>
+
 </div>
 
 
