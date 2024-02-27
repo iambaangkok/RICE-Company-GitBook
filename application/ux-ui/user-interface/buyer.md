@@ -6,13 +6,12 @@
 
 <p>เมื่่อเข้า Application มาแล้วจะพบกับหน้า Dashboard เป็นอันดับแรก โดยในหน้านี้จะแสดงทั้งหมด 6 section ได้แก่</p>
 
-1. Search Section   User สามารถค้นหาสินค้า และร้านค้าได้
-2. Cart Section ในหน้า Dashboard ผู้ใช้สามารถที่จะเห็นสินค้าที่ถูกเลือกลงตะกร้าได้ 
-3. Chat Section    ในหน้า Dashboard ผู้ใช้สามารถเห็นว่ามีแก่แชทที่ยังไม่ได้อ่านได้
-4. Suggested Product   ในหน้า Dashboard ผู้ใช้สามารถเห็นสินค้าแนะนำประมาณ 4-6 รายการ
-5. Product List  ผู้ใช้สามารถเลือกดูรายการสินค้าผ่านหน้า Dashboard ได้
-6. User Dashboard  ผู้ใช้สามารถเลือกกดดูหน้า User Dashboard ได้ผ่านทาง Navigation Bar ด้านล่างหน้าจอ
-
+1. Search Section User สามารถค้นหาสินค้า และร้านค้าได้
+2. Cart Section ในหน้า Dashboard ผู้ใช้สามารถที่จะเห็นสินค้าที่ถูกเลือกลงตะกร้าได้
+3. Chat Section ในหน้า Dashboard ผู้ใช้สามารถเห็นว่ามีแก่แชทที่ยังไม่ได้อ่านได้
+4. Suggested Product ในหน้า Dashboard ผู้ใช้สามารถเห็นสินค้าแนะนำประมาณ 4-6 รายการ
+5. Product List ผู้ใช้สามารถเลือกดูรายการสินค้าผ่านหน้า Dashboard ได้
+6. User Dashboard ผู้ใช้สามารถเลือกกดดูหน้า User Dashboard ได้ผ่านทาง Navigation Bar ด้านล่างหน้าจอ
 
 <p>ผู้ใช้สามารถกดเพื่อเข้าไปดูที่ Product ได้ แต่หากจะกดซื้อสินค้า หรือเพิ่มเข้าตะกร้า ผู้ใช้จะต้อง Login ก่อนถึงจะสามารถซื้อสินค้า หรือ เพิ่มสินค้าในรถเข็นได้</p>
 
@@ -29,11 +28,11 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/Login.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Login.png" alt="" width="206"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Login - passSecret.svg" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/Login - wrongFill.svg" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Login - passSecret.svg" alt="" width="206"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Login - wrongFill.svg" alt="" width="206"><figcaption></figcaption></figure>
 
 </div>
 
@@ -45,13 +44,13 @@
 
 <div align="left">
 
-<figure><img src="../../../.gitbook/assets/Register.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/Register - nofill.svg" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/Register - fillPassCorect.svg" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/Register - AddressFill.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Register.png" alt="" width="206"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Register - nofill.svg" alt="" width="206"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Register - fillPassCorect.svg" alt="" width="206"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Register - AddressFill.png" alt=""width="206"><figcaption></figcaption></figure>
 
 </div>
 
@@ -72,31 +71,29 @@ Search with Text
 ผู้ใช้สามารถค้นหาสินค้า หรือร้านค้า ผ่านทางการพิมพ์ได้ และสามารถเลือกกรองสินค้าที่ต้องการจะดูได้
 
 <div align="left">
-<figure><img src="../../../.gitbook/assets/SearchWithText-1.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/SearchResult-product.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/SearchResult-shop.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/Search-withFilter-New.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SearchWithText-1.png" alt="" width="206"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/SearchResult-product.png" alt="" width="206"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/SearchResult-shop.png" alt="" width="206"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Search-withFilter-New.png" alt="" width="206"><figcaption></figcaption></figure>
 </div>
 
-&#x20;      
+&#x20;
 
 Search with Image
 
 ผู้ใช้สามารถค้นหาสินค้า หรือร้านค้า ผ่านรูปภาพได้ โดยกดปุ่ม กล้องถ่ายรูป ที่อยู่ตรงตรงด้านขวาของ Search Bar และสามารถเลือกกรองสินค้าที่ต้องการจะดูได้
 
 <div align="left">
-<figure><img src="../../../.gitbook/assets/SearchWithPhoto(ML).png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/SearchWithPhoto(ML)-1.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/SearchWithPhoto(ML)-2 (1).png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/SearchResult-product (1).png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/SearchResult-shop (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/SearchWithPhoto(ML).png" alt="" width="206"><figcaption></figcaption></figure>
+
+</figure>
+
+<figure><img src="../../../.gitbook/assets/SearchResult-product (1).png" alt="" width="206"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/SearchResult-shop (1).png" alt="" width="206"><figcaption></figcaption></figure>
 </div>
 
 ---
@@ -107,21 +104,13 @@ Search with Image
 
 <div align="left">
 <figure><img src="../../../.gitbook/assets/ShopPage.png" alt="" width="207"><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/ShopPage2.png" alt="" width="206"><figcaption></figcaption></figure>
-</div>
 
 ---
 
 ## Report
 
 <div align="left">
-<figure><img src="../../../.gitbook/assets/report dashbord.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/report-topic.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/report-topic-1.png" alt=""><figcaption></figcaption></figure>
-</div>
+<figure><img src="../../../.gitbook/assets/report dashbord.png" alt="" width="206"><figcaption></figcaption></figure>
 
 ---
 
@@ -129,9 +118,6 @@ Search with Image
 
 <div align="left">
 <figure><img src="../../../.gitbook/assets/Prod Detail.png" alt="" width="206"><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/Prod Detail2.png" alt="" width="206"><figcaption></figcaption></figure>
-</div>
 
 ---
 
@@ -147,7 +133,7 @@ Search with Image
 
 <div align="left">
 <figure><img src="../../../.gitbook/assets/Payment-not success.png" alt="" width="206"><figcaption></figcaption></figure>
- 
+
 <figure><img src="../../../.gitbook/assets/Payment-success.png" alt="" width="206"><figcaption></figcaption></figure>
 </div>
 
@@ -156,26 +142,19 @@ Search with Image
 ## History
 
 <div align="left">
-<figure><img src="../../../.gitbook/assets/waiting for payment.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/on-going.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/delivered1.png" alt=""><figcaption></figcaption></figure>
-</div>
-
----
+<figure><img src="../../../.gitbook/assets/waiting for payment.png" alt="" width="206"><figcaption></figcaption></figure>
 
 ## Review
 
 <div align="left">
 <figure><img src="../../../.gitbook/assets/add comment1.png" alt="" width="206"><figcaption></figcaption></figure>
- 
+
 <figure><img src="../../../.gitbook/assets/add comment2.png" alt="" width="206"><figcaption></figcaption></figure>
 </div>
 <div>
 <figure><img src="../../../.gitbook/assets/add comment3.png" alt="" width="206"><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/add comment4.png" alt="" width="256"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/add comment4.png" alt="" width="206"><figcaption></figcaption></figure>
 </div>
 
 ---
@@ -202,11 +181,10 @@ Search with Image
 คุยกับ Rice
 
 <div align="left">
-<figure><img src="../../../.gitbook/assets/ChatwtihAdmin1.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/ChatwtihAdmin2.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/ChatwtihAdmin3.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/ChatwtihAdmin2.png" alt="" width="206"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/ChatwtihAdmin3.png" alt="" width="206"><figcaption></figcaption></figure>
 </div>
 
 สลับบัญชี
@@ -216,12 +194,8 @@ Search with Image
 ---
 
 ## Chat
+
 <div align="left">
-<figure><img src="../../../.gitbook/assets/NewChatBoard (1).png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/Chat1.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/Chat2.png" alt=""><figcaption></figcaption></figure>
- 
-<figure><img src="../../../.gitbook/assets/Chat3.png" alt=""><figcaption></figcaption></figure>
-</div>
+<figure><img src="../../../.gitbook/assets/NewChatBoard (1).png" alt="" width="206"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Chat1.png" alt="" width="206"><figcaption></figcaption></figure>

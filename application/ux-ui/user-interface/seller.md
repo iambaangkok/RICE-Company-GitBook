@@ -2,27 +2,17 @@
 
 ## Shop Register
 
-
-
 <div>
 
-<figure><img src="../../../.gitbook/assets/Register-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Register-1.png" alt=""width="206" ><figcaption></figcaption></figure>
 
- 
+<figure><img src="../../../.gitbook/assets/Register-2.png" alt="" width="206"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Register-2.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Register-3.png" alt="" width="206"><figcaption></figcaption></figure>
 
- 
+<figure><img src="../../../.gitbook/assets/Register-4.png" alt="" width="206"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Register-3.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Register-4.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Register-5.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Register-5.png" alt="" width="206"><figcaption></figcaption></figure>
 
 </div>
 
@@ -30,7 +20,7 @@
 
 <figure><img src="../../../.gitbook/assets/Approve-status-wating.png" alt="" width="206"><figcaption></figcaption></figure>
 
-***
+---
 
 ### Not Approved
 
@@ -40,31 +30,21 @@
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/NotApprove_EditShopDetail.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/NotApprove_EditShopDetail.png" alt="" width="206"><figcaption></figcaption></figure>
 
- 
+<figure><img src="../../../.gitbook/assets/EditRegister-1.png" alt="" width="206"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/EditRegister-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/EditRegister-2.png" alt=""width="206"><figcaption></figcaption></figure>
 
- 
+<figure><img src="../../../.gitbook/assets/EditRegister-3.png" alt="" width="206"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/EditRegister-2.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/EditRegister-3.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/EditRegister-4.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/EditRegister-4.png" alt=""width="206"><figcaption></figcaption></figure>
 
 </div>
 
-***
+---
 
 ### Approved
-
-
 
 <figure><img src="../../../.gitbook/assets/Approve-status-completed.png" alt="" width="206"><figcaption></figcaption></figure>
 
@@ -72,41 +52,29 @@
 
 ### Detail
 
-
-
 <div>
 
 <figure><img src="../../../.gitbook/assets/ShowDetail-1.png" alt="" width="206"><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/ShowDetail-2.png" alt="" width="206"><figcaption></figcaption></figure>
 
 </div>
 
-***
+---
 
 ### Edit&#x20;
 
-
-
 <div>
 
-<figure><img src="../../../.gitbook/assets/ShowDetail-editpage-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ShowDetail-editpage-1.png" alt="" width="206"><figcaption></figcaption></figure>
 
- 
+<figure><img src="../../../.gitbook/assets/ShowDetail-editpage-2.png" alt="" width="206"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/ShowDetail-editpage-2.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/ShowDetail-editpage-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ShowDetail-editpage-3.png" alt="" width="206"><figcaption></figcaption></figure>
 
 </div>
 
 ## Chat
-
-
 
 <figure><img src="../../../.gitbook/assets/NewChatBoard.png" alt="" width="206"><figcaption></figcaption></figure>
 
@@ -120,15 +88,11 @@
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/ShopProductList-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ShopProductList-1.png" alt="" width="206"><figcaption></figcaption></figure>
 
- 
+<figure><img src="../../../.gitbook/assets/ShopProductList.png" alt="" width="206"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/ShopProductList.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/ShopProductList - Click filter.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/ShopProductList - Click filter.png" alt="" width="206"><figcaption></figcaption></figure>
 
 </div>
 
@@ -146,8 +110,6 @@
 
 <figure><img src="../../../.gitbook/assets/ShopReview-1.png" alt="" width="206"><figcaption></figcaption></figure>
 
- 
-
 <figure><img src="../../../.gitbook/assets/ShoopReview-2.png" alt="" width="206"><figcaption></figcaption></figure>
 
 </div>
@@ -156,15 +118,11 @@
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/report dashbord (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/report dashbord (1).png" alt="" width="206"><figcaption></figcaption></figure>
 
- 
+<figure><img src="../../../.gitbook/assets/report-topic (1).png" alt="" width="206"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/report-topic (1).png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/report-topic-1 (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/report-topic-1 (1).png" alt="" width="206"><figcaption></figcaption></figure>
 
 </div>
 
@@ -172,43 +130,35 @@
 
 <figure><img src="../../../.gitbook/assets/ChatWithAdmin.png" alt="" width="206"><figcaption></figcaption></figure>
 
-***
+---
 
 ### Add Product
 
 <div>
 
-<figure><img src="../../../.gitbook/assets/Create new product-ver new-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Create new product-ver new-3.png" alt="" width="206"><figcaption></figcaption></figure>
 
- 
+<figure><img src="../../../.gitbook/assets/Create new product-ver new-3.png" alt="" width="206"><figcaption></figcaption></figure>
 
-<figure><img src="../../../.gitbook/assets/Create new product-ver new-3.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Create new product-ver new-2.png" alt="" width="206"><figcaption></figcaption></figure>
 
- 
-
-<figure><img src="../../../.gitbook/assets/Create new product-ver new-2.png" alt=""><figcaption></figcaption></figure>
-
- 
-
-<figure><img src="../../../.gitbook/assets/Create new product-ver new-1.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/Create new product-ver new-1.png" alt="" width="206"><figcaption></figcaption></figure>
 
 </div>
 
-***
+---
 
 ### Product Detail
 
 <figure><img src="../../../.gitbook/assets/ProductDetail.png" alt="" width="206"><figcaption></figcaption></figure>
 
-***
+---
 
 #### edit
 
 <div>
 
 <figure><img src="../../../.gitbook/assets/Edit product detail1.png" alt="" width="206"><figcaption></figcaption></figure>
-
- 
 
 <figure><img src="../../../.gitbook/assets/Edit product detail2.png" alt="" width="206"><figcaption></figcaption></figure>
 
@@ -218,7 +168,7 @@
 
 <figure><img src="../../../.gitbook/assets/deleteProd.png" alt="" width="206"><figcaption></figcaption></figure>
 
-***
+---
 
 ### Order History
 
@@ -252,17 +202,8 @@ Fail Order
 
 <figure><img src="../../../.gitbook/assets/ShopProductList-fail.png" alt="" width="206"><figcaption></figcaption></figure>
 
-***
+---
 
 ### Stat
 
 <figure><img src="../../../.gitbook/assets/ViewStat.png" alt="" width="206"><figcaption></figcaption></figure>
-
-
-
-
-
-
-
-
-
