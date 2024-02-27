@@ -75,10 +75,3 @@ loss:  0.9973333477973938
 {% embed url="https://colab.research.google.com/drive/1hXz5J2HEkNDU-PLRs_VRoEEjYmEEgqxD?usp=sharing" %}
 Code train model and prediction
 {% endembed %}
-
-*
-
-
-
-##
-
