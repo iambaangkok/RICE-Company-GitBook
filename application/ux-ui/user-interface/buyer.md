@@ -4,6 +4,18 @@
 
 <div>
 
+<p>เมื่่อเข้า Application มาแล้วจะพบกับหน้า Dashboard เป็นอันดับแรก โดยในหน้านี้จะแสดงทั้งหมด 6 section ได้แก่</p>
+1. Search Section
+
+   User สามารถค้นหาสินค้า และร้านค้าได้
+2. Cart Section
+
+   ในหน้า Dashboard ผู้ใช้สามารถที่จะเห็นสินค้าที่ถูกเลือกลงตะกร้าได้
+3. Chat Section
+4. Suggested Product
+5. Product List
+6. User Dashboard
+
 <figure><img src="../../../.gitbook/assets/Dashboard.png" alt="" width="206"><figcaption></figcaption></figure>
 
  
