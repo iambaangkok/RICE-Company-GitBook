@@ -30,7 +30,7 @@
 
 * Outside Guest 10 คน
 
-*Total 100 คน*
+**Total 100 คน**
 
 ---
 
@@ -42,4 +42,4 @@
 
 * Outside Guest 3 คน
 
-*Total 23 คน*
+**Total 23 คน**
