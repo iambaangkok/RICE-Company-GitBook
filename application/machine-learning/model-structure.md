@@ -6,7 +6,7 @@
 
 <figure><img src="../../.gitbook/assets/ResNet-50 Architecture.png" alt=""><figcaption><p>ResNet50 model architecture</p></figcaption></figure>
 
-ResNet50 หรือ Deep Residual Network เป็นPre-trained model ที่ได้รับความนิยมในงานComputer Vision เช่น Image Classification, Object Detection, Image Recognition ResNet50ถูกพัฒนาขึ้นมาจากConvolutional Neural Network(CNN)&#x20;
+ResNet หรือ Deep Residual Network เป็นPre-trained model ที่ได้รับความนิยมในงานComputer Vision เช่น Image Classification, Object Detection, Image Recognition ResNetถูกพัฒนาขึ้นมาจากConvolutional Neural Network(CNN) และมีหลากหลายขนาด เช่น ResNet50, ResNet101 แต่ในที่นี้จะใช้ResNet50 เนื่องจากมีขนาดเล็กที่สุด&#x20;
 
 ซึ่ง ResNet50 มีให้ใช้2 โครงสร้าง โดยสำหรับRICE นี้ ได้เลือกใช้ **ResNet50v2** เพราะเป็นที่นิยมใช้และใช้เวลาในการประมวลผลน้อย (ResNet50v2: [https://keras.io/api/applications/resnet/#resnet50v2-function](https://keras.io/api/applications/resnet/#resnet50v2-function))
 
