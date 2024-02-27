@@ -1,6 +1,4 @@
-# Environments
-
-### GitLab Requirement
+# GitLab Requirement
 
 * Storage
   * Linux Package 2.5 GB
