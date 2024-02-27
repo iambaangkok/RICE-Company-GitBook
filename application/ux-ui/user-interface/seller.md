@@ -2,9 +2,7 @@
 
 ## Shop Register
 
-หากผู้ขายต้องการที่จะเปิดร้านค้า ผู้ขายจำเป็นต้องมี Account กับทาง RICE ก่อน
-
-[Waiting for Approve](#Waiting-for-Approve)
+หากผู้ขายต้องการที่จะเปิดร้านค้า ผู้ขายจำเป็นต้องมี Account กับทาง RICE ก่อน จึงจะทำการลงทะเบียนเปิดร้านค้าได้ 
 
 <div>
 
@@ -22,15 +20,21 @@
 
 ### Waiting for Approve
 
+เมื่อทำการลงทะเบียนเปิดร้านค้าเสร็จแล้ว ผู้ขายตะต้องรอการอนุมัติจากแอดมินของทาง RICE
+
 <figure><img src="../../../.gitbook/assets/Approve-status-wating.png" alt="" width="206"><figcaption></figcaption></figure>
 
 ---
 
 ### Not Approved
 
+หากแอดมินไม่อนุมัติ ผู้ขายจะต้องกลับไปแก้รายละเอียดของร้านค้าอีกครั้ง โดยสามารถแก้ไขรายละเอียดของร้านค้าได้เมื่อกดที่ปุ่ม **แก้ไขข้อมูลร้านค้า** หากกดปุ่ม **กลับไปโปรไฟล์ของฉัน** จะกลับไปที่หน้า User Dashboard ของผั่งผู้ซื้อ (Buyer)
+
 <figure><img src="../../../.gitbook/assets/Approve-status-edit.svg" alt="" width="206"><figcaption></figcaption></figure>
 
 #### Edit Shop Detail
+
+แก้รายละเอียดของร้านค้าอีกครั้ง ตามหัวข้อที่แอดมินรายงาน
 
 <div>
 
@@ -50,11 +54,15 @@
 
 ### Approved
 
+เมื่อแอดมินทาง RICE ตรวจสอบรายละเอียดของร้านค้าที่ผู้ขายส่งมาแล้วอนุมัติ ผู้ขายสามารถกดปุ่ม **หน้าโปรไฟล์ร้านค้าของฉัน** เพื่อไปที่หน้า Shop Page
+
 <figure><img src="../../../.gitbook/assets/Approve-status-completed.png" alt="" width="206"><figcaption></figcaption></figure>
 
 ## Shop Page
 
 ### Detail
+
+แสดงรายละเอียดของร้านค้า โดยมีข้อมูลของร้านค้า และข้อมูลบัญชีธนาคสรของผู้ขาย โดยสามารถกดแก้ไขรายละเอียดของร้านค้าได้ผ่านทางปุ่ม **แก้ไข**
 
 <div>
 
@@ -68,6 +76,8 @@
 
 ### Edit&#x20;
 
+ในหน้านี้ผู้ขายสามารถแก้ไขรายละเอียดของร้านค้า ข้อมูลบัญชี ธนาคาร ชื่อร้าน รูปโปรไฟล์ของร้าน และรูปปกของร้านได้
+
 <div>
 
 <figure><img src="../../../.gitbook/assets/ShowDetail-editpage-1.png" alt="" width="206"><figcaption></figcaption></figure>
@@ -80,11 +90,15 @@
 
 ## Chat
 
+หน้า Chat สามารถเข้าได้ผ่านทาง Navigation Bar ด้านล่างหน้าจอ โดยในหน้านี้จะแสดงรายการสนธนาทั้งหมดที่ผู้ขายได้คุยกับลูกค้าไว้
+
 <figure><img src="../../../.gitbook/assets/NewChatBoard.png" alt="" width="206"><figcaption></figcaption></figure>
 
 ## Shop Management
 
 ### Dashboard
+
+ในหน้า Dashboard ของ Shop Management จะแสดง Banner ซึ่งมีรายละเอียดเป็น ชื่อร้านค้า ปกร้านค้า ปุ่ม **ข้อมูลร้านค้า** หากผู้ขายกดจะพาผู้ขายไปยังหน้า [#shop-page](seller.md#shop-page "mention") และหากกดปุ่ม **ดูร้านค้า**
 
 <figure><img src="../../../.gitbook/assets/ShopManagementDashboard-1.png" alt="" width="206"><figcaption></figcaption></figure>
 
