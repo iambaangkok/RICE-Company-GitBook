@@ -1,6 +1,6 @@
 # Git Model
 
-[Kaothom Thomkao](https://app.gitbook.com/u/qnHc3ighR5YNc27y3goLcvHnDnt1 "mention")
+<figure><img src="../.gitbook/assets/Simplified-version-of-the-gitflow-branching-model-adapted-from-8.png" alt=""><figcaption></figcaption></figure>
 
 มี branch อยู่จำนวนทั้งหมด 2 branch
 
@@ -15,6 +15,3 @@
 * เมื่อทำ feature เสร็จแล้วจะ cherry pick เข้า dev branch เพื่อทดสอบ feature ที่ทำมา
 * เมื่อทุกอย่างโอเคแล้วจึงค่อย up to date to master แล้วจึง merge feature branch นั้นๆเข้า master
 
-
-
-<figure><img src="../.gitbook/assets/Simplified-version-of-the-gitflow-branching-model-adapted-from-8.png" alt=""><figcaption></figcaption></figure>

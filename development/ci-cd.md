@@ -1,5 +1,7 @@
 # CI/CD
 
+<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
+
 Continuous Integration
 
 * แตก branch มาจาก master
@@ -14,5 +16,3 @@ Continuous Deployment
 * Test feature ทุกอย่างให้แน่ใจว่าสามารถทำงานได้ปกติ
   * หากไม่สามารถทำงานได้ปกติ จะต้องกับไปแก้ไข branch master ใหม่ตามขั้นตอน CI ข้างต้น
 * เมื่อทุกอย่างผ่านการ test แล้วว่าสามารถทำงานได้ปกติ จึง deploy ขึ้น server จริง
-
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption></figcaption></figure>
