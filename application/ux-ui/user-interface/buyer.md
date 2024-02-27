@@ -2,107 +2,158 @@
 
 ## Dashboard
 
-เมื่่อเข้า Application มาแล้วจะพบกับหน้า Dashboard เป็นอันดับแรก โดยในหน้านี้จะแสดงทั้งหมด 6 section ได้แก่
+<div>
 
-1.  Search Section  
-    User สามารถค้นหาสินค้า และร้านค้าได้
-2.  Cart Section  
-    ในหน้า Dashboard ผู้ใช้สามารถที่จะเห็นสินค้าที่ถูกเลือกลงตะกร้าได้
-3.  Chat Section
-4.  Suggested Product
-5.  Product List
-6.  User Dashboard
+<p>เมื่่อเข้า Application มาแล้วจะพบกับหน้า Dashboard เป็นอันดับแรก โดยในหน้านี้จะแสดงทั้งหมด 6 section ได้แก่</p>
+1. Search Section
+    User สามารถค้นหาสินค้า และร้านค้าได้ 
+2. Cart Section
+    ในหน้า Dashboard ผู้ใช้สามารถที่จะเห็นสินค้าที่ถูกเลือกลงตะกร้าได้ 
+3.  Chat Section  
+    ในหน้า Dashboard ผู้ใช้สามารถเห็นว่ามีแก่แชทที่ยังไม่ได้อ่านได้
+4.  Suggested Product  
+    ในหน้า Dashboard ผู้ใช้สามารถเห็นสินค้าแนะนำประมาณ 4-6 รายการ
+5.  Product List  
+    ผู้ใช้สามารถเลือกดูรายการสินค้าผ่านหน้า Dashboard ได้
+6.  User Dashboard  
+    ผู้ใช้สามารถเลือกกดดูหน้า User Dashboard ได้ผ่านทาง Navigation Bar ด้านล่างหน้าจอ
 
-![](../../../.gitbook/assets/Dashboard.png)![](../../../.gitbook/assets/Dashboard2.png)
+<p>ผู้ใช้สามารถกดเพื่อเข้าไปดูที่ Product ได้ แต่หากจะกดซื้อสินค้า หรือเพิ่มเข้าตะกร้า ผู้ใช้จะต้อง Login ก่อนถึงจะสามารถซื้อสินค้า หรือ เพิ่มสินค้าในรถเข็นได้</p>
 
+<figure><img src="../../../.gitbook/assets/Dashboard.png" alt="" width="206"><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Dashboard2.png" alt="" width="206"><figcaption></figcaption></figure>
+</div>
 ## Authentication
+
+### Sign In
+<p>หากผู้ใช้มี Account อยู่แล้ว สามารถ Login ผ่าน Email หรือ หมายเลขโทรศัพท์ กับรหัสผ่าน หรือ สามารถ Login ผ่าน Google Facebook Apple และ Line หากผู้ใช้ไม่มี Account ผู้ใช้สามารถกด **สมัครใหม่ที่นี่** เพื่อสร้าง Account ต่อไป</p>
+<div>
+
+<figure><img src="../../../.gitbook/assets/Login.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../../.gitbook/assets/Login - passSecret.svg" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/Login - wrongFill.svg" alt=""><figcaption></figcaption></figure>
+
+</div>
+***
 
 ### Sign Up
 
-![](../../../.gitbook/assets/Register.png)![](../../../.gitbook/assets/Register - nofill.svg)![](../../../.gitbook/assets/Register - fillPassCorect.svg)![](../../../.gitbook/assets/Register - AddressFill.png)
 
----
+<div align="left">
+<figure><img src="../../../.gitbook/assets/Register.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/Register - nofill.svg" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/Register - fillPassCorect.svg" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/Register - AddressFill.png" alt=""><figcaption></figcaption></figure>
+</div>
 
-### Sign In
 
-![](../../../.gitbook/assets/Login.png)![](../../../.gitbook/assets/Login - passSecret.svg)![](../../../.gitbook/assets/Login - wrongFill.svg)
-
-![](../../../.gitbook/assets/Dashboard.png)
-
-- Coupon
-
-![](../../../.gitbook/assets/Coupon.png)
-
-- Search
-
+* Coupon
+<figure><img src="../../../.gitbook/assets/Coupon.png" alt="" width="206"><figcaption></figcaption></figure>
+* Search
 Search with Text
-
-![](../../../.gitbook/assets/SearchWithText-1.png)![](../../../.gitbook/assets/SearchResult-product.png)![](../../../.gitbook/assets/SearchResult-shop.png)![](../../../.gitbook/assets/Search-withFilter-New.png)
-
-Search with Image
-
-![](<../../../.gitbook/assets/SearchWithPhoto(ML).png>)![](<../../../.gitbook/assets/SearchWithPhoto(ML)-1.png>)![](../../../.gitbook/assets/SearchWithPhoto(ML)-2 (1).png)![](../../../.gitbook/assets/SearchResult-product (1).png)![](../../../.gitbook/assets/SearchResult-shop (1).png)
-
-- Shop page
-
-![](../../../.gitbook/assets/ShopPage.png)![](../../../.gitbook/assets/ShopPage2.png)
-
-- Report
-
-![](../../../.gitbook/assets/report dashbord.png)![](../../../.gitbook/assets/report-topic.png)![](../../../.gitbook/assets/report-topic-1.png)
-
-- Product detail
-
-![](../../../.gitbook/assets/Prod Detail.png)![](../../../.gitbook/assets/Prod Detail2.png)
-
-- Cart
-
-![](../../../.gitbook/assets/NewCart.png)
-
-- Payment
-
-![](../../../.gitbook/assets/Pay- notaddAddress.png)
-
-![](../../../.gitbook/assets/Payment-not success.png)![](../../../.gitbook/assets/Payment-success.png)
-
-- History
-
-![](../../../.gitbook/assets/waiting for payment.png)![](../../../.gitbook/assets/on-going.png)![](../../../.gitbook/assets/delivered1.png)
-
-- Review
-
-![](../../../.gitbook/assets/add comment1.png)![](../../../.gitbook/assets/add comment2.png)
-
-![](../../../.gitbook/assets/add comment3.png)![](../../../.gitbook/assets/add comment4.png)
-
-- User Dashboard
-
-![](../../../.gitbook/assets/UserDashboard - noLogin.png)![](../../../.gitbook/assets/UserDashboard.png)
-
+<div>
+<figure><img src="../../../.gitbook/assets/SearchWithText-1.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/SearchResult-product.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/SearchResult-shop.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/Search-withFilter-New.png" alt=""><figcaption></figcaption></figure>
+</div>
+&#x20;      Search with Image
+<div>
+<figure><img src="../../../.gitbook/assets/SearchWithPhoto(ML).png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/SearchWithPhoto(ML)-1.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/SearchWithPhoto(ML)-2 (1).png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/SearchResult-product (1).png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/SearchResult-shop (1).png" alt=""><figcaption></figcaption></figure>
+</div>
+* Shop page
+<div>
+<figure><img src="../../../.gitbook/assets/ShopPage.png" alt="" width="207"><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/ShopPage2.png" alt="" width="206"><figcaption></figcaption></figure>
+</div>
+* Report
+<div>
+<figure><img src="../../../.gitbook/assets/report dashbord.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/report-topic.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/report-topic-1.png" alt=""><figcaption></figcaption></figure>
+</div>
+* Product detail
+<div>
+<figure><img src="../../../.gitbook/assets/Prod Detail.png" alt="" width="206"><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/Prod Detail2.png" alt="" width="206"><figcaption></figcaption></figure>
+</div>
+* Cart
+<figure><img src="../../../.gitbook/assets/NewCart.png" alt="" width="206"><figcaption></figcaption></figure>
+* Payment
+<figure><img src="../../../.gitbook/assets/Pay- notaddAddress.png" alt="" width="206"><figcaption></figcaption></figure>
+<div>
+<figure><img src="../../../.gitbook/assets/Payment-not success.png" alt="" width="206"><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/Payment-success.png" alt="" width="206"><figcaption></figcaption></figure>
+</div>
+* History
+<div>
+<figure><img src="../../../.gitbook/assets/waiting for payment.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/on-going.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/delivered1.png" alt=""><figcaption></figcaption></figure>
+</div>
+* Review
+<div>
+<figure><img src="../../../.gitbook/assets/add comment1.png" alt="" width="206"><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/add comment2.png" alt="" width="206"><figcaption></figcaption></figure>
+</div>
+<div>
+<figure><img src="../../../.gitbook/assets/add comment3.png" alt="" width="206"><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/add comment4.png" alt="" width="256"><figcaption></figcaption></figure>
+</div>
+* User Dashboard
+<figure><img src="../../../.gitbook/assets/UserDashboard - noLogin.png" alt="" width="206"><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/UserDashboard.png" alt="" width="206"><figcaption></figcaption></figure>
 ดูโปรไฟล์
-
-![](../../../.gitbook/assets/UserAcount.png)
-
+<figure><img src="../../../.gitbook/assets/UserAcount.png" alt="" width="206"><figcaption></figcaption></figure>
 ตั้งค่าบัญชี
-
-![](../../../.gitbook/assets/EditUserAcount.png)
-
+<figure><img src="../../../.gitbook/assets/EditUserAcount.png" alt="" width="206"><figcaption></figcaption></figure>
 ร้านค้าโปรด
-
-![](../../../.gitbook/assets/Fav-shop page.png)
-
+<figure><img src="../../../.gitbook/assets/Fav-shop page.png" alt="" width="206"><figcaption></figcaption></figure>
 สินค้าที่ชอบ
-
-![](../../../.gitbook/assets/Liked Product.png)
-
+<figure><img src="../../../.gitbook/assets/Liked Product.png" alt="" width="206"><figcaption></figcaption></figure>
 คุยกับ Rice
-
-![](../../../.gitbook/assets/ChatwtihAdmin1.png)![](../../../.gitbook/assets/ChatwtihAdmin2.png)![](../../../.gitbook/assets/ChatwtihAdmin3.png)
-
+<div>
+<figure><img src="../../../.gitbook/assets/ChatwtihAdmin1.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/ChatwtihAdmin2.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/ChatwtihAdmin3.png" alt=""><figcaption></figcaption></figure>
+</div>
 สลับบัญชี
-
-![](../../../.gitbook/assets/SwitchAccount.png)
-
-- Chat
-
-![](../../../.gitbook/assets/NewChatBoard (1).png)![](../../../.gitbook/assets/Chat1.png)![](../../../.gitbook/assets/Chat2.png)![](../../../.gitbook/assets/Chat3.png)
+<figure><img src="../../../.gitbook/assets/SwitchAccount.png" alt="" width="206"><figcaption></figcaption></figure>
+* Chat
+<div>
+<figure><img src="../../../.gitbook/assets/NewChatBoard (1).png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/Chat1.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/Chat2.png" alt=""><figcaption></figcaption></figure>
+ 
+<figure><img src="../../../.gitbook/assets/Chat3.png" alt=""><figcaption></figcaption></figure>
+</div>
