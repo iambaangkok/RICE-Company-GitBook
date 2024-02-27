@@ -4,7 +4,7 @@
 
 หากผู้ขายต้องการที่จะเปิดร้านค้า ผู้ขายจำเป็นต้องมี Account กับทาง RICE ก่อน
 
-[link](#waiting-for-approve)
+[Waiting for Approve](#Waiting-for-Approve)
 
 <div>
 
@@ -20,7 +20,7 @@
 
 </div>
 
-### waiting for approve
+### Waiting for Approve
 
 <figure><img src="../../../.gitbook/assets/Approve-status-wating.png" alt="" width="206"><figcaption></figcaption></figure>
 
