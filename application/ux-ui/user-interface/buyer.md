@@ -63,6 +63,8 @@
 
 <figure><img src="../../../.gitbook/assets/Coupon.png" alt="" width="206"><figcaption></figcaption></figure>
 
+---
+
 ## Search
 
 Search with Text
@@ -97,6 +99,8 @@ Search with Image
 <figure><img src="../../../.gitbook/assets/SearchResult-shop (1).png" alt=""><figcaption></figcaption></figure>
 </div>
 
+---
+
 ## Shop page
 
 ผู้ใช้สามารถดูรายการสินค้าของร้านค้า รีวิว กดถูกใจร้านค้า และแชทกับร้านค้าได้ผ่านทางหน้า Shop Page
@@ -106,6 +110,8 @@ Search with Image
  
 <figure><img src="../../../.gitbook/assets/ShopPage2.png" alt="" width="206"><figcaption></figcaption></figure>
 </div>
+
+---
 
 ## Report
 
@@ -117,6 +123,8 @@ Search with Image
 <figure><img src="../../../.gitbook/assets/report-topic-1.png" alt=""><figcaption></figcaption></figure>
 </div>
 
+---
+
 ## Product detail
 
 <div align="left">
@@ -125,9 +133,13 @@ Search with Image
 <figure><img src="../../../.gitbook/assets/Prod Detail2.png" alt="" width="206"><figcaption></figcaption></figure>
 </div>
 
+---
+
 ## Cart
 
 <figure><img src="../../../.gitbook/assets/NewCart.png" alt="" width="206"><figcaption></figcaption></figure>
+
+---
 
 ## Payment
 
@@ -139,6 +151,8 @@ Search with Image
 <figure><img src="../../../.gitbook/assets/Payment-success.png" alt="" width="206"><figcaption></figcaption></figure>
 </div>
 
+---
+
 ## History
 
 <div align="left">
@@ -148,6 +162,8 @@ Search with Image
  
 <figure><img src="../../../.gitbook/assets/delivered1.png" alt=""><figcaption></figcaption></figure>
 </div>
+
+---
 
 ## Review
 
@@ -161,6 +177,8 @@ Search with Image
  
 <figure><img src="../../../.gitbook/assets/add comment4.png" alt="" width="256"><figcaption></figcaption></figure>
 </div>
+
+---
 
 ## User Dashboard
 
@@ -194,6 +212,8 @@ Search with Image
 สลับบัญชี
 
 <figure><img src="../../../.gitbook/assets/SwitchAccount.png" alt="" width="206"><figcaption></figcaption></figure>
+
+---
 
 ## Chat
 <div align="left">
