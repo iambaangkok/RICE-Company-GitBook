@@ -2,6 +2,10 @@
 
 ## Shop Register
 
+หากผู้ขายต้องการที่จะเปิดร้านค้า ผู้ขายจำเป็นต้องมี Account กับทาง RICE ก่อน
+
+[link](#waiting-for-approve)
+
 <div>
 
 <figure><img src="../../../.gitbook/assets/Register-1.png" alt=""width="206" ><figcaption></figcaption></figure>
@@ -16,7 +20,7 @@
 
 </div>
 
-### Waiting for approve
+### waiting for approve
 
 <figure><img src="../../../.gitbook/assets/Approve-status-wating.png" alt="" width="206"><figcaption></figcaption></figure>
 
