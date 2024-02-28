@@ -1,7 +1,5 @@
 # 📋 Database Design
 
-@Database Team: Za, Pond, Meen
-
 <details>
 
 <summary>ภาพรวมของฐานข้อมูล</summary>
