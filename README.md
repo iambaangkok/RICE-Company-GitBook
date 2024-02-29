@@ -23,7 +23,7 @@ Features ของ RICE มีหลากหลาย เช่น
   * รีวิว (review)
   * คูปอง (coupon)
 
-***
+<!-- ***
 
 **RICE** is an **online e-commerce platform** for exclusive buying and selling rice and its bi-products.
 
@@ -40,4 +40,4 @@ Features ของ RICE มีหลากหลาย เช่น
   * cart
   * report
   * review
-  * coupons
+  * coupons -->

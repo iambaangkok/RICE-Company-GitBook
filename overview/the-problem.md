@@ -12,9 +12,9 @@ description: the root cause of RICE application
 
 ในทางกลับกัน รายได้ไปผ่านพ่อคนค้ากลาง จากนั้นถึงพ่อค้าท้องถิ่น ไปยังโรงสี และสุดท้ายถึงเกษตรกร ในกรณีนี้ ผู้ผลิตในท้องถิ่นจะได้รับกำไรน้อยมากเมื่อเปรียบเทียบกับพ่อค้าคนกลาง
 
-***
+<!-- ***
 
 The problem is that rice takes **multiple steps** to reach **consumers**. From farmers to mills, to local merchants, to the "middleman" (rice exporter / dealer), and finally, to consumers.
 
-In opposite, income goes through the middlemen, then local merchants, then mills, and finally, to farmers. In this case, local people gets substantially **fewer profits** compared to the middlemen.
+In opposite, income goes through the middlemen, then local merchants, then mills, and finally, to farmers. In this case, local people gets substantially **fewer profits** compared to the middlemen. -->
 

@@ -8,9 +8,9 @@ description: the users who will be using RICE
 
 RICE มีกลุ่มเป้าหมายหลัก 2 กลุ่ม ได้แก่ผู้ขายขาว และผู้ซื้อข้าว
 
-***
+<!-- ***
 
-There are 2 main target groups: rice sellers (seller) and rice buyers (buyer)
+There are 2 main target groups: rice sellers (seller) and rice buyers (buyer) -->
 
 <figure><img src="../.gitbook/assets/RICE Progress Presentation #2.png" alt=""><figcaption></figcaption></figure>
 
@@ -30,7 +30,7 @@ There are 2 main target groups: rice sellers (seller) and rice buyers (buyer)
 
 จากสถิติปี 2565 มีครัวเรือนเกษตรกร 7.3 ล้านครัวเรือนในประเทศไทย
 
-***
+<!-- ***
 
 **Rice sellers** are groups consisting of **farmers** and **local rice merchants**. Rice mill owners are not mentioned here since they usually are also either farmers or local rice merchants.
 
@@ -42,7 +42,7 @@ To achieve that, RICE provides them with:&#x20;
 * **Open-market** access
 * **Feedback** from buyers
 
-As of 2022, there are 7.3 million farming households in Thailand.
+As of 2022, there are 7.3 million farming households in Thailand. -->
 
 ## Buyer
 
@@ -65,7 +65,7 @@ As of 2022, there are 7.3 million farming households in Thailand.
 
 จากสถิติปี 2565 มีครัวเรือน 23 ล้านครัวเรือนในประเทศไทย
 
-***
+<!-- ***
 
 Rice buyers are groups consisting of **consumers** and **local rice merchants**. Consumers refer to both households and restaurants. Local rice merchants may import rice from other regions to sell them at their shops.
 
@@ -82,7 +82,7 @@ To achieve that, RICE provides them with:&#x20;
 * **Choice** of which rice they want to buy, from where, to where
 * **Online service** to buy rice from the device in their hand
 
-As of 2022, there are 23 million households in Thailand.
+As of 2022, there are 23 million households in Thailand. -->
 
 
 
