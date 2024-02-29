@@ -9,7 +9,9 @@
 * AWS Load Balancer สำหรับ expose Ingress เพื่อเชื่อมต่อกับ Internet
 * EC2 instances ซึ่งเป็น Kubernetes nodes
 
+<!-- ***
+
 **EKS** is Amazon's managed Kubernetes service. It provides Kubernetes clusters created in EKS with integration with other AWS services such as:
 
 * AWS Load Balancer for exposing Ingress to the internet
-* EC2 instances as Kubernetes nodes
+* EC2 instances as Kubernetes nodes -->

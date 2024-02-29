@@ -6,11 +6,11 @@
 
 เราใช้ Kubernetes เพื่อจัดการการ deploy ทั้งหมดของ RICE
 
-***
+<!-- ***
 
 **Kubernetes** is a container orchestration tool used to manage large-scale containerized application systems. Kubernetes is declarative, self-checking, uses less CPU & memory overhead, and more flexible compared to the bare-metal or pure VM server counterpart.
 
-We use Kubernetes to manage all of our deployments.
+We use Kubernetes to manage all of our deployments. -->
 
 ## Kubernetes Resources
 

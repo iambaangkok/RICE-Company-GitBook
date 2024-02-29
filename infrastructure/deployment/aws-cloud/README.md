@@ -16,13 +16,13 @@ Application ทั้งหมดของเราจะถูก host อย�
 >
 > แต่รายการนี้ไม่ใช้ทุก AWS service ที่จำเป็นต้องใช้ เพียงแค่ service ที่สำคัญเท่านั้น
 
-***
+<!-- ***
 
 **Cloud native** is the software approach of building, deploying, and managing modern applications in cloud computing environments.&#x20;
 
 Our entire application will be hosted on **AWS cloud**. This allows us to continuously adapt our server usage according to our rapid growth. No need to invest multiple physical servers that have less scalability.
 
-However, for a lot of services such as authentication, notification, and more, we will self implement them. This allows us to have more control over our services and is also cheaper in server-cost wise.
+However, for a lot of services such as authentication, notification, and more, we will self implement them. This allows us to have more control over our services and is also cheaper in server-cost wise. -->
 
 > Next will be the list of important AWS services that we will be using.
 >
