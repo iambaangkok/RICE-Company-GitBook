@@ -58,8 +58,8 @@ dense = Dense(5, activation='softmax')(dense)
 #### Test Accuracy & Loss
 
 ```
-accuracy:  0.008280780166387558
-loss:  0.9973333477973938
+accuracy:  0.9973333477973938
+loss:  0.008280780166387558
 ```
 
 #### Confusion Matrix
