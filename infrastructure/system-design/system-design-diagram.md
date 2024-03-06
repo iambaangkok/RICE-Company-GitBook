@@ -1,5 +1,5 @@
 # System Design Diagram
-<figure><img src="../../.gitbook/assets/system_diagram.png" alt=""><figcaption><p>System Diagram Overview</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/systemDiagram.png" alt=""><figcaption><p>System Diagram Overview</p></figcaption></figure>
 
 ## System Diagram Overview
 Microservice architecture แยกตามหมวดหมู่การใช้งาน
